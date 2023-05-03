@@ -1,0 +1,230 @@
+#T2 Frigates, Destroyers, and Small Weapon Platforms
+##For each main of the four main factions
+
+
+Spaceship Command 1
+Mechanics 1
+Power Grid Management 1
+Navigation 1
+CPU Management 1
+Signature Analysis 1
+Science 1
+Leadership 1
+Gunnery 1
+Missile Launcher Operation 1
+Mechanics 2
+Power Grid Management 2
+Spaceship Command 2
+Navigation 2
+CPU Management 2
+Science 2
+Gunnery 2
+Sharpshooter 1
+Motion Prediction 1
+Rapid Firing 1
+Gunnery 3
+Gunnery 4
+Trajectory Analysis 1
+Surgical Strike 1
+Sharpshooter 2
+Motion Prediction 2
+Rapid Firing 2
+Trajectory Analysis 2
+Surgical Strike 2
+Sharpshooter 3
+Motion Prediction 3
+Rapid Firing 3
+Surgical Strike 3
+Trajectory Analysis 3
+Missile Launcher Operation 2
+Weapon Upgrades 1
+Weapon Upgrades 2
+Weapon Upgrades 3
+Weapon Upgrades 4
+Advanced Weapon Upgrades 1
+Advanced Weapon Upgrades 2
+Advanced Weapon Upgrades 3
+Advanced Weapon Upgrades 4
+Leadership 2
+Long Range Targeting 1
+Electronics Upgrades 1
+Evasive Maneuvering 1
+Signature Analysis 2
+Evasive Maneuvering 2
+Electronics Upgrades 2
+Long Range Targeting 2
+CPU Management 3
+Propulsion Jamming 1
+Propulsion Jamming 2
+Science 3
+Spaceship Command 3
+Power Grid Management 3
+Mechanics 3
+Signature Analysis 3
+Leadership 3
+Electronics Upgrades 3
+Long Range Targeting 3
+Evasive Maneuvering 3
+Propulsion Jamming 3
+Missile Launcher Operation 3
+Power Grid Management 4
+Mechanics 4
+Science 4
+Signature Analysis 4
+Spaceship Command 4
+Leadership 4
+Electronics Upgrades 4
+Evasive Maneuvering 4
+Long Range Targeting 4
+Propulsion Jamming 4
+Missile Launcher Operation 4
+Spaceship Command 5
+Signature Analysis 5
+Power Grid Management 5
+Mechanics 5
+Science 5
+Gunnery 5
+Missile Launcher Operation 5
+Leadership 5
+Command Burst Specialist 1
+Command Burst Specialist 2
+Command Burst Specialist 3
+Command Burst Specialist 4
+Evasive Maneuvering 5
+Electronics Upgrades 5
+Long Range Targeting 5
+Propulsion Jamming 5
+Graviton Physics 1
+Assault Frigates 1
+Interceptors 1
+Covert Ops 1
+Electronic Attack Ships 1
+Logistics Frigates 1
+Interdictors 1
+Command Destroyers 1
+Assault Frigates 2
+Interceptors 2
+Covert Ops 2
+Electronic Attack Ships 2
+Logistics Frigates 2
+Interdictors 2
+Command Destroyers 2
+Assault Frigates 3
+Interceptors 3
+Covert Ops 3
+Electronic Attack Ships 3
+Logistics Frigates 3
+Interdictors 3
+Command Destroyers 3
+Assault Frigates 4
+Interceptors 4
+Covert Ops 4
+Electronic Attack Ships 4
+Logistics Frigates 4
+Interdictors 4
+Command Destroyers 4
+Amarr Frigate 1
+Caldari Frigate 1
+Gallente Frigate 1
+Minmatar Frigate 1
+Amarr Frigate 2
+Caldari Frigate 2
+Gallente Frigate 2
+Minmatar Frigate 2
+Amarr Frigate 3
+Caldari Frigate 3
+Gallente Frigate 3
+Minmatar Frigate 3
+Amarr Frigate 4
+Caldari Frigate 4
+Gallente Frigate 4
+Minmatar Frigate 4
+Amarr Frigate 5
+Caldari Frigate 5
+Gallente Frigate 5
+Minmatar Frigate 5
+Amarr Destroyer 1
+Gallente Destroyer 1
+Caldari Destroyer 1
+Minmatar Destroyer 1
+Amarr Destroyer 2
+Gallente Destroyer 2
+Caldari Destroyer 2
+Minmatar Destroyer 2
+Amarr Destroyer 3
+Gallente Destroyer 3
+Caldari Destroyer 3
+Minmatar Destroyer 3
+Amarr Destroyer 4
+Gallente Destroyer 4
+Caldari Destroyer 4
+Minmatar Destroyer 4
+Amarr Destroyer 5
+Amarr Tactical Destroyer 1
+Amarr Tactical Destroyer 2
+Amarr Tactical Destroyer 3
+Amarr Tactical Destroyer 4
+Gallente Destroyer 5
+Gallente Tactical Destroyer 1
+Gallente Tactical Destroyer 2
+Gallente Tactical Destroyer 3
+Gallente Tactical Destroyer 4
+Caldari Destroyer 5
+Caldari Tactical Destroyer 1
+Caldari Tactical Destroyer 2
+Caldari Tactical Destroyer 3
+Caldari Tactical Destroyer 4
+Minmatar Destroyer 5
+Minmatar Tactical Destroyer 1
+Minmatar Tactical Destroyer 2
+Minmatar Tactical Destroyer 3
+Minmatar Tactical Destroyer 4
+Small Energy Turret 1
+Small Hybrid Turret 1
+Small Projectile Turret 1
+Light Missiles 1
+Rockets 1
+Small Energy Turret 2
+Small Hybrid Turret 2
+Small Projectile Turret 2
+Light Missiles 2
+Rockets 2
+Small Energy Turret 3
+Small Hybrid Turret 3
+Small Projectile Turret 3
+Light Missiles 3
+Rockets 3
+Small Energy Turret 4
+Small Hybrid Turret 4
+Small Projectile Turret 4
+Light Missiles 4
+Rockets 4
+Small Energy Turret 5
+Small Hybrid Turret 5
+Small Projectile Turret 5
+Light Missiles 5
+Rockets 5
+Small Autocannon Specialization 1
+Small Artillery Specialization 1
+Small Beam Laser Specialization 1
+Small Blaster Specialization 1
+Small Pulse Laser Specialization 1
+Small Railgun Specialization 1
+Rocket Specialization 1
+Light Missile Specialization 1
+Small Artillery Specialization 2
+Small Autocannon Specialization 2
+Small Beam Laser Specialization 2
+Small Blaster Specialization 2
+Small Pulse Laser Specialization 2
+Small Railgun Specialization 2
+Rocket Specialization 2
+Light Missile Specialization 2
+Small Artillery Specialization 3
+Small Autocannon Specialization 3
+Small Beam Laser Specialization 3
+Small Blaster Specialization 3
+Small Pulse Laser Specialization 3
+Small Railgun Specialization 3
+Rocket Specialization 3
+Light Missile Specialization 3
