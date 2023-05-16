@@ -1,4 +1,4 @@
-#Title
+#EWAR and Weapon Supports L4
 
 
 CPU Management 1
@@ -14,47 +14,47 @@ Electronic Warfare 2
 Electronic Warfare 3
 Electronic Warfare 4
 Frequency Modulation 1
-Frequency Modulation 2
-Frequency Modulation 3
-Frequency Modulation 4
 Long Distance Jamming 1
+Frequency Modulation 2
 Long Distance Jamming 2
+Frequency Modulation 3
 Long Distance Jamming 3
+Frequency Modulation 4
 Long Distance Jamming 4
 Navigation 1
 Navigation 2
 Propulsion Jamming 1
-Propulsion Jamming 2
-Propulsion Jamming 3
-Propulsion Jamming 4
 Sensor Linking 1
+Propulsion Jamming 2
 Sensor Linking 2
+Propulsion Jamming 3
 Sensor Linking 3
+Propulsion Jamming 4
 Sensor Linking 4
-Signal Dispersion 1
-Signal Dispersion 2
-Signal Dispersion 3
-Signal Dispersion 4
-Signal Suppression 1
-Signal Suppression 2
-Signal Suppression 3
-Signal Suppression 4
 Target Painting 1
+Signal Dispersion 1
+Signal Suppression 1
 Target Painting 2
+Signal Suppression 2
+Signal Dispersion 2
 Target Painting 3
+Signal Suppression 3
+Signal Dispersion 3
 Target Painting 4
-Signature Focusing 1
-Signature Focusing 2
-Signature Focusing 3
-Signature Focusing 4
-Signature Masking 1
-Signature Masking 2
-Signature Masking 3
-Signature Masking 4
+Signal Suppression 4
+Signal Dispersion 4
 Weapon Disruption 1
+Signature Masking 1
+Signature Focusing 1
 Weapon Disruption 2
+Signature Masking 2
+Signature Focusing 2
 Weapon Disruption 3
+Signature Focusing 3
+Signature Masking 3
 Weapon Disruption 4
+Signature Masking 4
+Signature Focusing 4
 Weapon Destabilization 1
 Weapon Destabilization 2
 Weapon Destabilization 3
@@ -112,3 +112,5 @@ Rapid Launch 4
 Target Navigation Prediction 4
 Warhead Upgrades 4
 Missile Bombardment 4
+
+
